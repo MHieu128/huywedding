@@ -49,7 +49,7 @@ export default function Welcome() {
             <p className="h-25"></p>
             <div className="relative bg-white h-screen rounded-lg shadow-md animate-slideIn">
               <Image
-                src="/left_image_1.webp" // Replace with your background image path
+                src="/righ_image_1.jpg" // Replace with your background image path
                 alt="Background"
                 layout="fill"
                 objectFit="cover"
